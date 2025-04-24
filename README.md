@@ -15,3 +15,5 @@ Dashboard interaktif bertema sci-fi yang dibangun dengan Streamlit, lengkap deng
 ## Dibuat oleh
 Muhammad Raihan Yazid
 
+## Atribusi
+- Background Sci-Fi UI: [Pngtree - Futuristic HUD Background](https://id.pngtree.com/freebackground/circuit-technology-futuristic-blue-background-sci-fi-frame-hud-ui_1404853.html)
