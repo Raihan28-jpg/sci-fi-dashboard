@@ -134,3 +134,4 @@ with col3:
 # Footer
 st.markdown("---")
 st.markdown("<p style='text-align:center;'>📈 Update otomatis tiap 3 detik</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align:center; font-size:10px;'>📷 Background image credit: id.pngtree.com</p>", unsafe_allow_html=True)
